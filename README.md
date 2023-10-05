@@ -3,7 +3,31 @@
 ## emehl02.github.io
 
 ![Eric Mehlman](https://github.com/emehl02/emehl02.github.io/blob/main/Eric%20Mehlman%20Photo.png?raw=true)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
 
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+  <title>Centered Image</title>
+</head>
+<body>
+  <img src="[your-image-url.jpg](https://github.com/emehl02/emehl02.github.io/blob/main/Eric%20Mehlman%20Photo.png?raw=true)" alt="Your Image Description">
+</body>
+</html>
 
 Hi, my name is Eric Mehlman and I am a junior at Lehigh Univeristy originally from Westchester, NY. I am a Journalism major with a minor in Marketing. Currently I am an associate photo editor for the Brown and White, the newspaper at Lehigh.
 Check out my creative instagram account at [emehlfilms](https://www.instagram.com/emehlfilms/)
