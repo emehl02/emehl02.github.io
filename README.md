@@ -2,6 +2,7 @@
 
 ## emehl02.github.io
 
+<p align="center">
 ![Eric Mehlman](https://github.com/emehl02/emehl02.github.io/blob/main/Eric%20Mehlman%20Photo.png?raw=true)
 
 
