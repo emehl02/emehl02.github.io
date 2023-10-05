@@ -13,3 +13,7 @@ Check out my creative instagram account at [emehlfilms](https://www.instagram.co
 The market size of sports are directly linked to their average salaries and how much players get paid. The way I found the Data set was by just looking up the average salary that different sports make. What I found interesting is that the PLL (Professional Lacrosse League, players only make $35,000 on average compared to the NBA where players make upwards of $7 million. Also I was surprised that a sport like Hockey wouldn’t generate more revenue given it is Canadas largest sport. Overall, there are a lot of points that could be derived from this data including the market sizes for each sport along with the amount of players who end up working after playing their sport. 
 
 ![Average Salary for Sports in North America in 2020](https://github.com/emehl02/emehl02.github.io/blob/main/month%20(1).png?raw=true)
+
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
+                                
