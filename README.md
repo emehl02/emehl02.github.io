@@ -21,4 +21,5 @@ The market size of sports are directly linked to their average salaries and how 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1syQOcnJLXKo_QEVgVulDp3DwaFvum8-Gaq9ELbqwpWg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-![Arts_ _Sciences_Business_Engineering_chartbuilder](https://github.com/emehl02/emehl02.github.io/assets/145693029/7ad86071-3c8a-426c-ac44-131b812f0969)
+
+![Arts_ _Sciences_Business_Engineering_chartbuilder (1)](https://github.com/emehl02/emehl02.github.io/assets/145693029/c76350e3-1a4c-4f33-99f7-6fdee84ba06b)
