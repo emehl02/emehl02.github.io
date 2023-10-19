@@ -24,3 +24,6 @@ The market size of sports are directly linked to their average salaries and how 
 
 
 ![Arts_ _Sciences_Business_Engineering_chartbuilder (2)](https://github.com/emehl02/emehl02.github.io/assets/145693029/a5692f0b-2607-42a6-98e1-1764ef645631)
+
+
+![Life_Satisfaction_Correlated_to_GDP_Per_Capita_Life_Satisfaction__chartbuilder](https://github.com/emehl02/emehl02.github.io/assets/145693029/940e1396-2b90-4098-bbd7-9690555c0d74)
