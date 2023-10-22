@@ -25,6 +25,9 @@ The market size of sports are directly linked to their average salaries and how 
 
 ![Arts_ _Sciences_Business_Engineering_chartbuilder (2)]
 
-![NY_Mets_Batting_AVG_and_OBP_the_past_10_years_Batting_Average_On_Base_Percentage_chartbuilder](https://github.com/emehl02/emehl02.github.io/assets/145693029/dd1055c9-4760-4338-b8ad-e2054f8f463e)
 
 ![Life_Satisfaction_Correlated_to_GDP_Per_Capita_Life_Satisfaction__chartbuilder](https://github.com/emehl02/emehl02.github.io/assets/145693029/940e1396-2b90-4098-bbd7-9690555c0d74)
+
+
+
+![NY_Mets_Batting_AVG_and_OBP_the_past_10_years_Batting_Average_On_Base_Percentage_chartbuilder](https://github.com/emehl02/emehl02.github.io/assets/145693029/dd1055c9-4760-4338-b8ad-e2054f8f463e)
